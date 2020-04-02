@@ -1,0 +1,24 @@
+{
+  "name": "caro-react-native-select",
+  "version": "1.0.1",
+  "description": "react native 单选组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn start"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "select"
+  ],
+  "author": "caro",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/caro-li/react-native-select.git"
+  },
+  "bugs": {
+    "url": "https://github.com/caro-li/react-native-select/issues"
+  },
+  "homepage": "https://github.com/caro-li/react-native-select#readme"
+}
