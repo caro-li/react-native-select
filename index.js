@@ -20,6 +20,7 @@ class SelectCom extends React.Component {
 
   constructor(props) {
     super(props);
+    console.log('test git')
     this.state = {
       SelectData: this.props.SelectData,//数据源
       visible: false,//控制model显示隐藏
